@@ -1,7 +1,7 @@
 /*
  * Decompiled with CFR 0.137.
  */
-import java.io.PrintStream;
+
 
 class HelloWorld {
     HelloWorld() {
